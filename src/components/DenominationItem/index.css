@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.cash {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  height: 40px;
+  width: 150px;
+  font-size: 15px;
+  border: 2px solid #c4c4c4;
+  border-radius: 5px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.li {
+  list-style-type: none;
+}
